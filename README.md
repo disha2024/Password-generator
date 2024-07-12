@@ -1,1 +1,2 @@
 # Password-generator
+A password generator is a tool that generates a random combination of numbers, letters, and symbols to be used as a password. This project uses a mixture of numbers, alphabets, and other symbols found on the computer keyboard to form a  password which is unpredictable.For accessing string constants,"string.ascii_letters","string.digits","string.punctuation" modules and to generate pseudo-random numbers , random module are needed. 
